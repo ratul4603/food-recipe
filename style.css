@@ -106,7 +106,8 @@ input{
     font-size: 18px;
 }
 .recipe-box pre{
-    font-family:cursive;
+    font-family:Poppins;
+    fontsize:18px;
     text-align: justify;
     padding:10px 0;
     word-wrap: break-word;
@@ -121,6 +122,6 @@ input{
 
 @media screen and (max-width:578px){
     .main-container{
-        width:300px;
+        width:350px;
     }
 }
